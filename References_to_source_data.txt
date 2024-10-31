@@ -1,0 +1,7 @@
+CELMS data:
+Meng, Zhiguo, et al. "Constructing A Complete Brightness Temperature Dataset of the Moon with Chang'e-2 Microwave Radiometer Data." IEEE Transactions on Geoscience and Remote Sensing (2023). 
+https://doi.org/10.1109/TGRS.2023.3305298
+
+Oxide abundances of the measured samples: 
+Zhang, Liang, et al. "New maps of major oxides and Mg# of the lunar surface from additional geochemical data of Chang'E-5 samples and KAGUYA multiband imager data." Icarus 397 (2023): 115505. 
+https://doi.org/10.1016/j.icarus.2023.115505
